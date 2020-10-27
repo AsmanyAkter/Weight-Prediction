@@ -1,1 +1,2 @@
-# Weight Prediction by using height and gender.
+# Weight Prediction depends on height and gender.
+# In this prediction, I used Linear Regression model.  
